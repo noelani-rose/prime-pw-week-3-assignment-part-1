@@ -92,6 +92,7 @@ console.log('the new food list is now', foodArray);
 
 // 4.f (STRETCH) TODO: Sort your favoriteFoods array
 //     in reverse alphabetical order. Log the array.
+console.log(foodArray.sort().reverse());
 
 
 // 4.g (STRETCH) TODO: Convert your array to a string
