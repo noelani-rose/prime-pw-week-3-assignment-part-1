@@ -24,6 +24,7 @@ console.log('Number of animals:', animalArray.length);
 // 2.a. TODO: Log to the console the number of foods in your array
 console.log('number of food items:', foodArray.length);
 
+
 // 3. Accessing array items
 console.log('--- 3. Accessing items in an array ---');
 
